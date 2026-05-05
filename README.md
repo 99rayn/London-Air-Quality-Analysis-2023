@@ -1,5 +1,5 @@
 London Air Quality Analysis 2023
-> A comprehensive end-to-end data analytics project exploring hourly pollution patterns across London — using Excel, SQL, and Power BI to uncover annual trends, hourly peaks, seasonal dynamics, and public health implications.
+> A comprehensive end-to-end data analytics project exploring hourly pollution patterns across London — using Excel, SQL, and Python to uncover annual trends, hourly peaks, seasonal dynamics, and public health implications.
 ---
 📋 Project Overview
 
